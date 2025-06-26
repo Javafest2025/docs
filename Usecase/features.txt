@@ -1,0 +1,67 @@
+1. General
+-------------------main---------------------
+
+Authentication & Authorization
+
+Email/password login and signup
+Social login (Google, GitHub)
+Session management (JWT + refresh)
+Role-based access (e.g., researcher, admin)
+Email verification, password reset
+
+User Profile & Settings
+
+Display name, profile image, bio
+Email & password update
+Linked accounts (Google/GitHub)
+Dark/light mode
+Default notification preferences
+
+Notifications (general, email)
+In site notifications
+Email notifications for important events
+
+Progress tracking (general, tasks)
+ Reading Progress & Task Tracking (Global Dashboard)
+Unified reading list across all projects
+Global “To Read”, “Reading”, “Done” states
+Quick links to associated project/paper
+
+2. Pre research
+-------------------main---------------------
+
+Paper websearch 
+Pdf viewer, editor, annotator
+Paper extraction, summarization, and analysis
+Critic agent will give score to paper based on metadata
+Gap analysis and topic suggestion
+Contextual Q/A chatbot
+
+------------------optional---------------------
+
+Citation Path Discovery (shown as graph or other visualization)
+
+3. ongoing research
+-------------------main---------------------
+
+topic suggestion to template
+latex editor (with ai utilities) with live preview (kind of like overleaf) with contextual ai modifications (kind of like cursor) Inline citation support.Add missing citations (based on content)
+written paper reviewed by ai (follow by rules)
+
+
+--------------------optional---------------------
+correction by ai.
+
+4. Post research
+-------------------main---------------------
+. Impact Tracking & Metrics Dashboard
+Track how your research performs over time
+Monitor:
+Citations (via Semantic Scholar / Crossref)
+Downloads
+Views or mentions (altmetrics, if available)
+Graph trends over time
+Optional: Notify user when cited by new paper
+
+
+
